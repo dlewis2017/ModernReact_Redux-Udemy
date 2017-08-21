@@ -10,7 +10,7 @@ This course introduces you to the basics of React and Redux
 
 -------
 
-<h3><b>YouTube Search</b></h3> - Web application that lets you to search youtube using youtube api search, google api, and React.</h3>
+<h3><b>YouTube Search</b> - Web application that lets you to search youtube using youtube api search, google api, and React.</h3>
 
 <i>Usage:</i>
 
