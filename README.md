@@ -19,3 +19,12 @@ This course introduces you to the basics of React and Redux
 
 -------
 
+<h3><b>Book List</b> - </h3>
+
+<i>Usage:</i>
+
+	npm install - installs json module with dependencies
+	open webBrowser and type localhost:8080 - shows the user interface
+
+-------
+
