@@ -3,6 +3,7 @@ import { connect } from 'react-redux';
 
 class BookDetail extends Component {
   render() {
+    console.log(this.props);
     if (!this.props.book) { //prevent title of null error (wait for book)
       return <div>Select a book to get started.</div>
     }
