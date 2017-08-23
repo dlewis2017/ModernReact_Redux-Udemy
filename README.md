@@ -20,7 +20,7 @@ This course introduces you to the basics of React and Redux
 
 -------
 
-<h3><b>Book List</b> - Web application that lets you view a book given a list of books, helping one to understand the relationship between React and Redux</h3>
+<h3><b>Book List</b> - Simple web application that lets you view a book given a list of books, helping one to understand the relationship between React and Redux</h3>
 
 <i>Usage:</i>
 
