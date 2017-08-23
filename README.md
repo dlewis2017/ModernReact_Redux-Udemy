@@ -1,6 +1,6 @@
 <header><h1><b>Projects from React-Redux Udemy course</b></h1></header>
 
-This course introduces you to the basics of React and Redux
+Learned the very basics of React and Redux
 
 
 <b>Link to course:</b> <a>https://bah.udemy.com/react-redux/learn/v4/overview </a>
