@@ -3,7 +3,7 @@
 Learned the very basics of React and Redux
 
 
-<b>Link to course:</b> <a>https://bah.udemy.com/react-redux/learn/v4/overview </a>
+<b>Link to course:</b> <a>https://udemy.com/react-redux/learn/v4/overview </a>
 
 
 <b>Link to StephenGrider Github:</b> <a>https://github.com/StephenGrider</a>
@@ -30,7 +30,7 @@ Learned the very basics of React and Redux
 
 -------
 
-<h3><b>Weather Application</b> - Simple web application that lets one view the eweather over the next 5 days in a given city. Uses OpenWeatherMap API as well as google maps API. Helps you understand components and containers in reference to React/Redux.</h3>
+<h3><b>Weather Application</b> - Simple web application that lets one view the weather over the next 5 days in a given city. Uses OpenWeatherMap API as well as google maps API. Helps you understand components and containers in reference to React/Redux.</h3>
 
 <i>Usage:</i>
 
